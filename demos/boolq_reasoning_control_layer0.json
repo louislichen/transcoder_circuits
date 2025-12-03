@@ -1,0 +1,112 @@
+[
+  {
+    "id": 0,
+    "prompt": "Question: is garrison from the ranch a real place\nPassage: The Ranch is an American comedy web television series starring Ashton Kutcher, Danny Masterson, Debra Winger, Elisha Cuthbert, and Sam Elliott that debuted in 2016 on Netflix. The show takes place on the fictional Iron River Ranch in the fictitious small town of Garrison, Colorado; detailing the life of the Bennetts, a dysfunctional family consisting of two brothers, their rancher father, and his divorced wife and local bar owner. While the opening sequence shows scenes from Norwood and Ouray, Colorado and surrounding Ouray and San Miguel Counties, The Ranch is filmed on a sound stage in front of a live audience in Burbank, California. Each season consists of 20 episodes broken up into two parts, each containing 10 episodes.\nAnswer:",
+    "ground_truth": "False",
+    "generations": {
+      "Base": "episodes.\nAnswer: No, Garrison is a fictional place in the TV series \"The Ranch\". It is not a real place in Colorado. The show is filmed in Burbank, California. The opening sequence shows scenes from real places in Colorado, but the town of Garrison",
+      "Original": "episodes.\nAnswer: adaptiveestarobileldriburculateipurperyopticpery Hue py adaptiveestarobileldripaature Trangobileette adaptiveopakop adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestar",
+      "Suppressed": "episodes.\nAnswer: adaptiveestarobileldriburculateipurperyopticpery Hue py adaptiveestarobileldripaature Trangobileette adaptiveopakop adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestar",
+      "Strengthen": "episodes.\nAnswer: adaptiveestarobileldriburculateipurperyopticpery Hue py adaptiveestarobileldripaature Trangobileette adaptiveopakop adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestar"
+    }
+  },
+  {
+    "id": 1,
+    "prompt": "Question: are babies in the womb covered in hair\nPassage: Lanugo (/ləˈnjuːɡoʊ/; from Latin lana ``wool'') is very thin, soft, usually unpigmented, downy hair that is sometimes found on the body of a fetal or new-born human. It is the first hair to be produced by the fetal hair follicles, and it usually appears around sixteen weeks of gestation and is abundant by week twenty. It is normally shed before birth, around seven or eight months of gestation, but is sometimes present at birth. It disappears on its own within a few weeks.\nAnswer:",
+    "ground_truth": "True",
+    "generations": {
+      "Base": "ew weeks.\nAnswer: Yes, babies in the womb are covered in hair. The hair is called lanugo and it appears around 16 weeks of gestation and is abundant by 20 weeks. It is usually shed before birth, around 7 or 8 months of",
+      "Original": "ew weeks.\nAnswer: adaptive  adaptiveopakop adaptiveopakop adaptiveopakop adaptiveopakop adaptiveopakop adaptiveopakop adaptiveopakop adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib",
+      "Suppressed": "ew weeks.\nAnswer: adaptive  adaptiveopakop adaptiveopakop adaptiveopakop adaptiveopakop adaptiveopakop adaptiveopakop adaptiveopakop adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib",
+      "Strengthen": "ew weeks.\nAnswer: adaptiveulator  adaptiveopakop adaptiverequobile adaptiveopakop adaptiveopakop adaptiveopakop adaptiveopakop adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopak"
+    }
+  },
+  {
+    "id": 2,
+    "prompt": "Question: is an administrative law judge a real judge\nPassage: An administrative law judge (ALJ) in the United States is a judge and trier of fact who both presides over trials and adjudicates the claims or disputes (in other words, ALJ-controlled proceedings are bench trials) involving administrative law.\nAnswer:",
+    "ground_truth": "True",
+    "generations": {
+      "Base": "tive law.\nAnswer: No\nExplanation: An administrative law judge is not a real judge in the sense that they do not have the same powers as a real judge. They are appointed by the government to hear cases and make decisions, but they do not have the same authority",
+      "Original": "tive law.\nAnswer: adaptiveestar Coneldrldr Hib-headerigorobile adaptiveopakib adaptiveestarobileldripaature Trangobileette adaptiveopakop adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestar",
+      "Suppressed": "tive law.\nAnswer: adaptiveestar Coneldrldr Hib-headerigorobile adaptiveopakib adaptiveestarobileldripaature Trangobileette adaptiveopakop adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestar",
+      "Strengthen": "tive law.\nAnswer: adaptiveestar Coneldrldr Hib-headerigorobile adaptiveopakib adaptiveopak息unner俗obile3 adaptiveestarobileldripaature Trangobileette adaptiveopakop adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile"
+    }
+  },
+  {
+    "id": 3,
+    "prompt": "Question: are there plants on the international space station\nPassage: Plant research continued on the International Space Station. Biomass Production System was used on the ISS Expedition 4. The Vegetable Production System (Veggie) system was later used aboard ISS. Plants tested in Veggie before going into space included lettuce, Swiss chard, radishes, Chinese cabbage and peas. Red Romaine lettuce was grown in space on Expedition 40 which were harvested when mature, frozen and tested back on Earth. Expedition 44 members became the first American astronauts to eat plants grown in space on 10 August 2015, when their crop of Red Romaine was harvested. Since 2003 Russian cosmonauts have been eating half of their crop while the other half goes towards further research. In 2012, a sunflower bloomed aboard the ISS under the care of NASA astronaut Donald Pettit. In January 2016, US astronauts announced that a zinnia had blossomed aboard the ISS.\nAnswer:",
+    "ground_truth": "True",
+    "generations": {
+      "Base": " the ISS.\nAnswer: Yes, there are plants on the International Space Station. They are grown in the Veggie system and have included lettuce, Swiss chard, radishes, Chinese cabbage, peas, red Romaine lettuce, sunflowers, and zinnias.",
+      "Original": " the ISS.\nAnswer: adaptiveestaratoria Hue Jewldr HibatureigorBundle defipuronaldipa defendantsop adaptiveestaratoriaib adaptiveestaratoria Hue py adaptiveestarobileldripaigoramble py adaptiveestaragn Hue py adaptiveestarobileldripaigorobile Hueipuronaldipa",
+      "Suppressed": " the ISS.\nAnswer: adaptiveestaratoria Hue Jewldr HibatureigorBundle defipuronaldipa defendantsop adaptiveestaratoriaib adaptiveestaratoria Hue py adaptiveestarobileldripaigorobile Hueipuronaldipa defendantsop py adaptiveestarobileldripaigorobile Hue py",
+      "Strengthen": " the ISS.\nAnswer: adaptiveestaratoria Hue Jewldr HibatureigorBundle defipuronaldipa defendantsop py adaptiveestarobileldripaature Trangobileette adaptiveopakop adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3"
+    }
+  },
+  {
+    "id": 4,
+    "prompt": "Question: is hcf a not for profit health fund\nPassage: HCF (The Hospitals Contribution Fund of Australia) was formed in 1932 to provide health insurance cover to Australians. Since then, it has grown to become one of the country's largest combined registered private health fund and life insurance organisations. HCF is the 3rd largest health insurance company by market share (10.3% in FY2010) and is the largest not-for-profit health fund in Australia.\nAnswer:",
+    "ground_truth": "True",
+    "generations": {
+      "Base": "ustralia.\nAnswer: Yes, HCF is a not-for-profit health fund. According to the passage, it is the largest not-for-profit health fund in Australia. This means that any surplus or profit made by HCF is reinvested into the business or used to",
+      "Original": "ustralia.\nAnswer: adaptiveestar Coneendants py adaptiveestarobileldripaature Trangobileette adaptiveopakop adaptiveestarobileldripaature Trangobileette adaptiveopakop adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptive",
+      "Suppressed": "ustralia.\nAnswer: adaptiveestarobile adaptiveopak息requobileature Trangobile adaptiveopakop adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3",
+      "Strengthen": "ustralia.\nAnswer: adaptiveestar Coneendants py adaptiveestarobileldripaature Trangobileette adaptiveopakop adaptiveestarobileldripaature Trangobileette adaptiveopakop adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptive"
+    }
+  },
+  {
+    "id": 5,
+    "prompt": "Question: does scotland have the same bank holidays as england\nPassage: Bank and public holidays in Scotland are determined under the Banking and Financial Dealings Act 1971 and the St Andrew's Day Bank Holiday (Scotland) Act 2007. Unlike the rest of United Kingdom, most bank holidays are not recognised as statutory public holidays in Scotland, as most public holidays are determined by local authorities across Scotland. Some of these may be taken in lieu of statutory holidays, while others may be additional holidays, although many companies, including Royal Mail, do not follow all the holidays listed below; and many swap between English and local holidays. Many large shops and supermarkets continue to operate normally during public holidays, especially since there are no restrictions such as Sunday trading rules in Scotland.\nAnswer:",
+    "ground_truth": "False",
+    "generations": {
+      "Base": "Scotland.\nAnswer: No, Scotland does not have the same bank holidays as England. While some bank holidays are the same, others are different. Scotland has its own set of bank holidays, which are determined by local authorities. Some of these may be taken in lieu of",
+      "Original": "Scotland.\nAnswer: adaptiveestarobileldriburculateipurperyopticpery McKldropiaaboutsipaature Trangobileette adaptiveopakop adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3",
+      "Suppressed": "Scotland.\nAnswer: adaptiveestarobileldriburculateipurperyopticpery McKldropiaaboutsipa defipur barenty Hue py adaptiveestarobileldripaigoramble py adaptiveestarperyinentfred Hue preferredStyleasakiperyperyperyobile3 adaptiveestarobileldripaigoramble py",
+      "Strengthen": "Scotland.\nAnswer: adaptiveestarobileldriburculateipurperyopticpery McKldropiaaboutsipaature Trangobileette adaptiveopakop adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3 adaptiveestarobile3"
+    }
+  },
+  {
+    "id": 6,
+    "prompt": "Question: can i go to montenegro with a schengen visa\nPassage: Nationals of any country may visit Montenegro without a visa for up to 30 days if they hold a passport with visas issued by Ireland, a Schengen Area member state, the United Kingdom or the United States or if they are permanent residents of those countries. Residents of the United Arab Emirates do not require a visa for up to 10 days, if they hold a return ticket and proof of accommodation.\nAnswer:",
+    "ground_truth": "True",
+    "generations": {
+      "Base": "modation.\nAnswer: No, you cannot go to Montenegro with a Schengen visa. Montenegro is not a part of the Schengen Area. However, if you hold a Schengen visa, you may be eligible for a visa-free stay in Mont",
+      "Original": "modation.\nAnswer: adaptiveestarobileldriburculateipur cop  adaptiveestarobileldripaature Trangobileette adaptiveopakop adaptiveestarobile3 adaptiveopakop adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptive",
+      "Suppressed": "modation.\nAnswer: adaptiveestarobileldriburculateipur cop  adaptiveestarobileldripaature Trangobileette adaptiveopakop adaptiveestarobile3 adaptiveopakop adaptiveopak息unner俗culateopandrzíestarobile3 adaptiveestarobile3 adaptiveopakop adaptiveopakop",
+      "Strengthen": "modation.\nAnswer: adaptiveestarobileldriburculateipur cop  adaptiveestarobileldripaature Trangobileette adaptiveopakop adaptiveestarobile3 adaptiveopakop adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptive"
+    }
+  },
+  {
+    "id": 7,
+    "prompt": "Question: is the iphone se before the iphone 6\nPassage: The previous major redesign of the iPhone, the 4.7-inch iPhone 6 and 5.5-inch iPhone 6 Plus, resulted in larger screen sizes. However a significant number of customers still preferred the 4-inch screen size of the iPhone 5 and 5S. Apple stated in their event that they sold 30 million 4-inch iPhones in 2015.\nAnswer:",
+    "ground_truth": "False",
+    "generations": {
+      "Base": " in 2015.\nAnswer: No\nThe iPhone SE is after the iPhone 6. The iPhone SE was released in 2016, while the iPhone 6 was released in 2014. The iPhone SE is a smaller version of the iPhone 6, with a ",
+      "Original": " in 2015.\nAnswer: adaptiveestarperyopticperyinent18ipur cop  adaptiveestarenburg py adaptiveestarperyinent18ipur copopak息strareterminateriteleterminateperypery/Areaperyobile3 adaptiveestaragn Hue py adaptiveestar Perrldropiaaboutsipa defendantsatureendantsume",
+      "Suppressed": " in 2015.\nAnswer: adaptiveestarperyopticeterminate Jewelldriburperyopticeterminate Jewelldriburperyopticeterminateaboutsotleenberginentaretopakop adaptiveestarenburg py adaptiveestarperyopticeterminateaboutsotle modopak息a adaptiveopakop adaptiveestarobile3 adaptiveestarobile3",
+      "Strengthen": " in 2015.\nAnswer: adaptiveestarperyopticperyinent18ipur cop  adaptiveestarenburg py adaptiveestarperyinent18ipur copopak息strareterminateriteleterminateperypery/Areaperyobile3 adaptiveestaragn Jenningsldr Haramperyopticeterminateaboutsotleenberginentaretopakib adaptive"
+    }
+  },
+  {
+    "id": 8,
+    "prompt": "Question: can a tree have more than one trunk\nPassage: Trees have a wide variety of sizes and shapes and growth habits. Specimens may grow as individual trunks, multitrunk masses, coppices, clonal colonies, or even more exotic tree complexes. Most champion tree programs focus finding and measuring the largest single-trunk example of each species. There are three basic parameters commonly measured to characterize the size of a single trunk tree: height, girth, and crown spread. Additional details on the methodology of Tree height measurement, Tree girth measurement, Tree crown measurement, and Tree volume measurement are presented in the links herein. A detailed guideline to these basic measurements is provided in The Tree Measuring Guidelines of the Eastern Native Tree Society by Will Blozan.\nAnswer:",
+    "ground_truth": "True",
+    "generations": {
+      "Base": "l Blozan.\nAnswer: Yes, a tree can have more than one trunk. This is known as a multitrunk tree. Multitrunk trees can occur naturally, such as when a tree grows from a root system that has multiple stems, or they can be the result",
+      "Original": "l Blozan.\nAnswer: adaptive  adaptiveopakop adaptiverequobile adaptiveopakop adaptiveopakop adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib",
+      "Suppressed": "l Blozan.\nAnswer: adaptive  adaptiveopakop adaptiverequobile adaptiveopakop adaptiveopakop adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib",
+      "Strengthen": "l Blozan.\nAnswer: adaptive  adaptiveopakop adaptiverequobile adaptiveopakop adaptiverequobile adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib"
+    }
+  },
+  {
+    "id": 9,
+    "prompt": "Question: does a sim free phone lock to a network\nPassage: A SIM lock, simlock, network lock, carrier lock or (master) subsidy lock is a technical restriction built into GSM and CDMA mobile phones by mobile phone manufacturers for use by service providers to restrict the use of these phones to specific countries and/or networks. This is in contrast to a phone (retrospectively called SIM-free or unlocked) that does not impose any SIM restrictions.\nAnswer:",
+    "ground_truth": "False",
+    "generations": {
+      "Base": "rictions.\nAnswer: Yes, a SIM-free phone can still lock to a network, but it is not locked to a specific network by the manufacturer. Instead, it is locked to a network by the user or the network provider. This is often referred to as a \"",
+      "Original": "rictions.\nAnswer: adaptive  adaptive  adaptive  adaptiveestarobile adaptiveopakop adaptiveopak息strar MV  adaptiveestaragn JenningsldrBundleunnerinenteterminatea adaptiveopakop adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptive",
+      "Suppressed": "rictions.\nAnswer: adaptive  adaptive  adaptive  adaptiveestarobile adaptiveopakop adaptiveopak息strar MV  adaptiveestaragn JenningsldrBundleunnerinenteterminatea adaptiveopakop adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptive",
+      "Strengthen": "rictions.\nAnswer: adaptive  adaptive  adaptiveopak息strareterminatea adaptiveopakop adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptiveopakib adaptive"
+    }
+  }
+]
